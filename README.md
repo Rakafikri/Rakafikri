@@ -2,7 +2,7 @@
 - 👀 I’m interested in progamming
 - 🌱 I’m currently learning Python
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Ikan berkepala Lele
 
 <!---
 Rakafikri/Rakafikri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
